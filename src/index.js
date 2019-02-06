@@ -125,6 +125,7 @@ function getCompiledTemplate(
     filename,
     compiler,
     compilerOptions: { preserveWhitespace: false },
+    prettify: false,
     isFunctional
   });
 
