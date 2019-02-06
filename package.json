@@ -1,5 +1,5 @@
 {
-  "name": "@_pearofducks/require-extension-hooks-vue",
+  "name": "require-extension-hooks-vue-26",
   "version": "3.0.0",
   "description": "Simple server parser for .vue files",
   "main": "src/index.js",
