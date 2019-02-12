@@ -32,15 +32,15 @@
   },
   "homepage": "https://github.com/jackmellis/require-extension-hooks-vue#readme",
   "peerDependencies": {
-    "require-extension-hooks": "^0.3.0"
+    "require-extension-hooks": "^0.3.0",
+    "vue-template-compiler": "^2.6.6"
   },
   "dependencies": {
     "@vue/component-compiler-utils": "^2.5.2",
     "consolidate": "^0.15.0",
     "postcss": "^7.0.0",
     "postcss-modules-sync": "^1.0.0",
-    "source-map-support": "^0.5.8",
-    "vue-template-compiler": "^2.6.2"
+    "source-map-support": "^0.5.8"
   },
   "devDependencies": {
     "ava": "^1.2.1",
